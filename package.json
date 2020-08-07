@@ -1,0 +1,24 @@
+{
+  "name": "nodejspractice",
+  "version": "1.0.0",
+  "description": "Practice with Node.js",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielALarrea/NodeJSPractice.git"
+  },
+  "keywords": [
+    "practice"
+  ],
+  "author": "Daneil Larrea\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001bie\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[B\u001b[B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielALarrea/NodeJSPractice/issues"
+  },
+  "homepage": "https://github.com/DanielALarrea/NodeJSPractice#readme"
+}
